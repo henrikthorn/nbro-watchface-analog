@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="32" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="33" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="37" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="38" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="40" pc="268435520" symbol="onLayout"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="41" pc="268435545" symbol="onLayout"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="44" pc="268435570" symbol="onLayout"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="45" pc="268435598" symbol="onLayout"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="46" pc="268435626" symbol="onLayout"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="49" pc="268435654" symbol="onLayout"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="55" pc="268435665" symbol="onShow"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="59" pc="268435670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="61" pc="268435674" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="64" pc="268435686" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="65" pc="268435722" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="67" pc="268435773" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="68" pc="268435790" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="69" pc="268435800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="70" pc="268435810" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="72" pc="268435820" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="73" pc="268435830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="74" pc="268435852" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="75" pc="268435886" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="77" pc="268435914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="80" pc="268435950" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="85" pc="268436052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="90" pc="268436154" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="92" pc="268436190" symbol="onUpdate"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="100" pc="268436293" symbol="onHide"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="104" pc="268436298" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogView.mc" lineNum="108" pc="268436303" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogBackground.mc" lineNum="7" pc="268436308" symbol="initialize"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogBackground.mc" lineNum="8" pc="268436312" symbol="initialize"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogBackground.mc" lineNum="12" pc="268436333" symbol="initialize"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogBackground.mc" lineNum="15" pc="268436354" symbol="draw"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogBackground.mc" lineNum="17" pc="268436358" symbol="draw"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogBackground.mc" lineNum="18" pc="268436411" symbol="draw"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogApp.mc" lineNum="6" pc="268436424" symbol="initialize"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogApp.mc" lineNum="7" pc="268436428" symbol="initialize"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogApp.mc" lineNum="11" pc="268436447" symbol="onStart"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogApp.mc" lineNum="15" pc="268436452" symbol="onStop"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogApp.mc" lineNum="19" pc="268436457" symbol="getInitialView"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogApp.mc" lineNum="20" pc="268436461" symbol="getInitialView"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogApp.mc" lineNum="24" pc="268436499" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\thorn\\Documents\\GitHub\\nbro-watchface-analog\\source\\nbrowatchfaceanalogApp.mc" lineNum="25" pc="268436503" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="27" pc="268436520" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268436524" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268436548" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268436711" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268436736" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268436788" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="36" pc="268436834" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="23" symbol="ColorBlue"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="13" symbol="TWO_PI"/>
+<entry field="true" id="30" symbol="ColorWhite"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="16" symbol="hour_radius"/>
+<entry field="true" id="29" symbol="ColorBlack"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="24" symbol="ColorRed"/>
+<entry field="true" id="25" symbol="ForegroundColorTitle"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="15" symbol="minute_radius"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="21" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8" object="true" symbol="nbrowatchfaceanalogView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="27" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="22" symbol="ColorLightGray"/>
+<entry field="true" id="18" symbol="dcHandle"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="26" symbol="BackgroundColorTitle"/>
+<entry id="20" module="true" symbol="Layouts"/>
+<entry field="true" id="17" symbol="second_radius"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="12" symbol="center_y"/>
+<entry field="true" id="11" symbol="center_x"/>
+<entry field="true" id="28" symbol="MilitaryFormatTitle"/>
+<entry id="10" object="true" symbol="nbrowatchfaceanalogApp"/>
+<entry id="8389063" symbol="identifier"/>
+<entry field="true" id="14" symbol="ANGLE_ADJUST"/>
+<entry id="19" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436292" name="hour" stackId="3" startPc="268435674"/>
+<entry endPc="268436292" name="second" stackId="5" startPc="268435674"/>
+<entry endPc="268436292" name="hour_angle" stackId="8" startPc="268435674"/>
+<entry endPc="268436292" name="hour_fraction" stackId="6" startPc="268435674"/>
+<entry endPc="268436292" name="clockTime" stackId="2" startPc="268435674"/>
+<entry endPc="268436292" name="minute_angle" stackId="7" startPc="268435674"/>
+<entry endPc="268436292" name="minute" stackId="4" startPc="268435674"/>
+<entry endPc="268436292" name="seconds_angle" stackId="9" startPc="268435674"/>
+<entry endPc="268436353" name="dictionary" stackId="1" startPc="268436312"/>
+<entry endPc="268436861" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268436524"/>
+<entry endPc="268436861" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268436524"/>
+<entry endPc="268436861" name="rez_cmp_local_custom_drawable_SWSRNCGSZAQCCKA00F6R" stackId="2" startPc="268436524"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="nbrowatchfaceanalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="nbrowatchfaceanalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="nbrowatchfaceanalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="nbrowatchfaceanalogView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="nbrowatchfaceanalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="nbrowatchfaceanalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="nbrowatchfaceanalogView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="nbrowatchfaceanalogApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="nbrowatchfaceanalogApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="nbrowatchfaceanalogApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="nbrowatchfaceanalogApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="nbrowatchfaceanalogApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
