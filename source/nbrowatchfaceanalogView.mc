@@ -76,7 +76,7 @@ class nbrowatchfaceanalogView extends Ui.WatchFace {
     	dc.fillCircle(center_x, center_y, 10 + dc.getWidth() / 2);
 
 		//Draw the NBRO Logo
-        drawLogo(dc);
+        drawLogo();
     	    	
     	//Get time
         var clockTime = Sys.getClockTime();
