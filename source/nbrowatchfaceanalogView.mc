@@ -77,6 +77,8 @@ class nbrowatchfaceanalogView extends Ui.WatchFace {
 
 		//Draw the NBRO Logo
         drawLogo();
+        
+        drawCharger();
     	    	
     	//Get time
         var clockTime = Sys.getClockTime();
@@ -165,5 +167,32 @@ class nbrowatchfaceanalogView extends Ui.WatchFace {
     	var logo = Ui.loadResource(Rez.Drawables.NBROLogo);
     	var width = 120;
 		dcHandle.drawBitmap(x - width/2, 2, logo);
+    }
+    
+    function drawCharger() {
+    
+    	var stats = Sys.getSystemStats();
+
+        var width = 20;
+        var height = 12;
+		var x  = dcHandle.getWidth() / 2 * 1.25;
+		var y = dcHandle.getHeight() / 2 * 1.25;
+
+        dcHandle.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_BLACK);
+        dcHandle.fillRectangle(x,y,width,height);
+        dcHandle.fillRectangle(x + width,y + height/2 - 2, 2, 4);
+        dcHandle.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_BLACK);
+        dcHandle.drawRectangle(x + 1,y + 1,width - 2, height - 2);
+        dcHandle.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_BLACK);
+
+        var chargeWidth = ((width - 4).toFloat() * stats.battery).toLong() / 100;
+        if(chargeWidth > (width -4))
+        {
+            chargeWidth = (width - 4).toLong();
+        }
+
+        dcHandle.fillRectangle(x + 2, y + 2, chargeWidth, height - 4);
+    
+        
     }
 }

@@ -1,6 +1,7 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
-    <bitmap id="NBROLogo" filename="logo_watch_dark.png" /><bitmap id="Background"
+    <bitmap id="NBROLogo" filename="logo.png" /><bitmap id="Background"
     	filename="ur.png">
 </bitmap>
+	<bitmap filename="charge_battery.png" id="Charger"></bitmap>
 </drawables>
